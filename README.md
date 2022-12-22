@@ -1,3 +1,9 @@
+##Update
+
+Update to support UE5.x
+Update VLC lib.
+*Only support Windows 64bit
+
 # VlcMedia
 
 Unreal Engine 4 Media Framework plug-in using the Video LAN Codec (libvlc).
